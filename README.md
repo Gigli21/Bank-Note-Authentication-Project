@@ -1,1 +1,1 @@
-# Bank-Note-Prediction-Project
+# Bank-Note-Authentication-Project
